@@ -1,0 +1,15 @@
+@import "tailwindcss";
+
+.container{
+    max-width: 1187px;
+    width: 100%;
+    padding-right: 16px;
+    padding-left: 16px;
+}
+input{
+    outline: none;
+    border: none;
+}
+body{
+    height: 500vh;
+}
