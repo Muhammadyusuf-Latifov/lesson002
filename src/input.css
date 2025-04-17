@@ -10,6 +10,10 @@ input{
     outline: none;
     border: none;
 }
-body{
-    height: 500vh;
+
+hr{
+    color: #ddd;
+}
+s{
+    color: #9e9d9d;
 }
